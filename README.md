@@ -4,8 +4,10 @@
 
 将Reversal Icon Theme中某些图标替换为APP新版本
 
-
 替换某些图标为HyperOS风格
+
+
+图标改动:[https://github.com/Apiclo/app-svg-icons](https://github.com/Apiclo/app-svg-icons)
 
 ## Install
 
